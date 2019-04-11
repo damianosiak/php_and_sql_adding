@@ -1,0 +1,56 @@
+html, body{
+    height: 98%;
+}
+
+#container
+{
+    width:100%;
+    height:100%;
+    background-color: lightgrey;
+}
+
+#menu
+{
+    margin: auto;
+    position: relative;
+    top: 2%;
+    width:25%;
+    height:15%;
+    background-color:grey;
+    border-radius:3%;
+    border-style:solid;
+    border-color:darkgrey;
+}
+
+#napis
+{
+    font-size:28px;
+    font-weight: bold;
+    color:lightgray;
+    padding-top: 2%;
+    text-align: center;
+}
+
+#przyciski
+{
+    text-align: center;
+    position:relative;
+    top:5%;
+}
+
+.przycisk
+{
+    width: 30%;
+    height:35px;
+    background-color:lightgrey;
+    outline-style:solid;
+    outline-width: thin;
+    outline-color:grey;
+    
+}
+
+#paneldzialania
+{
+    position:relative;
+    top:5%;
+}

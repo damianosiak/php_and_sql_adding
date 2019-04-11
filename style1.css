@@ -1,0 +1,37 @@
+html, body
+{
+  height:98%;
+  width:98%;
+  overflow:auto;
+}
+#container
+{
+  width:100%;
+  height:100%;
+}
+#menu
+{
+  margin: 0 auto;
+  outline-style:solid;
+  width:50%;
+  height:250px;
+  background-color: grey;
+}
+
+#tytul
+{
+  font-size:34px;
+  margin-bottom:5px;
+  font-weight: bold;
+  color:darkred;
+
+}
+.przycisk
+{
+  width:200px;
+  height:75px;
+  font-size:18px;
+  outline-style:solid;
+  background-color: lightgrey;
+  outline-color:black;
+}
